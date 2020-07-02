@@ -3,7 +3,7 @@
     "type":"vars",
     "attributes": {
       "key":"height",
-      "value":"800",
+      "value":"REPLACE_ME",
       "category":"terraform",
       "hcl":false,
       "sensitive":false
@@ -11,7 +11,7 @@
     "relationships": {
       "workspace": {
         "data": {
-          "id":"ws-fdck8V62QEufbGGD",
+          "id":"REPLACE_WITH_WORKSPACE_ID",
           "type":"workspaces"
         }
       }
