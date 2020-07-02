@@ -3,7 +3,7 @@
     "type":"vars",
     "attributes": {
       "key":"placeholder",
-      "value":"REPLACE_ME",
+      "value":"placekitten.com",
       "category":"terraform",
       "hcl":false,
       "sensitive":false
@@ -11,7 +11,7 @@
     "relationships": {
       "workspace": {
         "data": {
-          "id":"REPLACE_WITH_WORKSPACE_ID",
+          "id":"ws-fdck8V62QEufbGGD",
           "type":"workspaces"
         }
       }
